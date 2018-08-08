@@ -2,7 +2,7 @@
   "name": "liri-node-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "keys.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,19 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/knarf6925/liri-node-app.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/knarf6925/liri-node-app/issues"
   },
   "homepage": "https://github.com/knarf6925/liri-node-app#readme",
+  "keywords": [],
   "dependencies": {
     "node-spotify-api": "^1.0.7",
-    "npm": "^6.2.0",
-    "request": "^2.87.0",
-    "spotify": "^0.3.0",
-    "twitter": "^1.7.1"
-  },
-  "devDependencies": {}
+    "require": "^2.4.20"
+  }
 }
