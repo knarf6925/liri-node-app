@@ -12,3 +12,7 @@ spotify-this-song
 movie-this
 
 do-what-it-says
+
+# Sample Screenshot
+
+![liriScreenShot1.png](https://github.com/knarf6925/liri-node-app/blob/master/liriScreenShot1.png)
